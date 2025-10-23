@@ -1,0 +1,424 @@
+/* Large screens */
+@media screen and (max-width: 1680px) {
+    .banner-a h1.head1 {
+        font-size: 76px;
+        margin: 10px 0px;
+    }
+    
+    .hero-content {
+        width: 70%;
+    }
+    
+    .hero-content h4 {
+        font-size: 24px;
+    }
+    .robotHand img {
+        width: 80%;
+    }
+    
+    .mouse-container {
+        bottom: 30px;
+    }
+    .main-hd h4 {
+        font-size: 30px;
+    }
+    
+    .main-hd h2 {
+        font-size: 50px;
+    }
+    
+    .main-hd p.p {
+        font-size: 18px;
+    }
+    
+    .portfolio-tab ul li.nav-item button {
+        font-size: 24px;
+        width: auto;
+        padding: 15px 60px;
+        height: auto;
+    }
+    
+    .portfolio-slide {
+        padding: 0 14px;
+    }
+    
+    .portfolio-slide img {
+        height: auto;
+        width: 100%;
+    }
+    
+    .iphone-frame img {
+        width: 65%;
+    }
+    
+    .iphone-frame {
+        left: 33.3%;
+    }
+}
+@media screen and (max-width: 1600px) {
+    /* Styles */
+    .pricing-price span.content-price {
+        font-size: 60px;
+    }
+    
+    section.pacakges .container-fluid.packagesContainer {
+        padding: 0 10%;
+    }
+    .testimonial-card {
+        padding: 30px;
+    }
+    
+    .subscribe-section .subscribe-section-head p {
+        font-size: 18px;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1440px) {
+    .banner-a h1.head1 {
+        font-size: 60px;
+    }
+    
+    .hero-content h4 {
+        font-size: 20px;
+    }
+    
+    .main-hd h4 {
+        font-size: 26px;
+    }
+    .container-fluid.packagesContainer {
+        padding: 0 8%;
+    }
+    .main-hd h2,.section-title {
+        font-size: 42px !important;!i;!;
+    }
+    
+    .iphone-frame img {
+        width: 61%;
+    }
+    .theme-btn {
+        padding: 20px 30px !important;
+    }
+    
+    .theme-btn i {
+        width: 45px;
+        height: 45px;
+    }
+    
+    .pricing-tables.pricing-layout-3 .content-button {
+        padding-right: 25px;
+    }
+}
+@media screen and (max-width: 1366px) {
+    .robotHand img {
+        width: 60%;
+    }
+    
+    .mouse-container a.cta-button p {
+        font-size: 18px;
+    }
+    
+    .mouse-container .mouse-outer {
+        width: 25px;
+        height: 40px;
+    }
+    
+    .iphone-frame img {
+        width: 58%;
+    }
+    
+    .ellipse-frame {
+        left: 0;
+    }
+    
+    .portfolio-slide {
+        padding: 0 12px;
+    }
+    .header .cta-btn,
+    .header .cta-btn:focus {
+        font-size: 16px;
+    }
+    .iphone-frame {
+        left: 32.5%;
+    }
+    .testimonial-content {
+        font-size: 16px;
+    }
+    
+    .counter-two__count h3,
+    .counter-two__count span {
+        font-size: 70px;
+        line-height: 70px;
+    }
+    .main-hd h2 {
+        font-size: 38px ;
+    }
+     .section-title{
+         font-size :36px !important;
+     }
+    section.serv-sec {
+        padding: 80px 0 20px;
+    }
+}
+
+/* Medium screens */
+@media screen and (max-width: 1280px) {
+    section#hero {
+        background-size: cover;
+        background-position: right;
+    }
+    
+    .banner-a h1.head1 {
+        font-size: 50px;
+    }
+    
+    .portfolio-tab ul li.nav-item button {
+        font-size: 20px;
+        padding: 10px 40px;
+    }
+    .counter-two__single-2 {
+        border: none;
+    }
+    .counter-two__single-4 {
+        /* border-right: 1px solid #fff !important; */
+    }
+    section.innerPage-serv .image-section {
+        display: none;
+    }
+    
+    section.innerPage-serv .text-section {
+        width: 100%;
+    }
+    
+    section.innerPage-serv {
+        padding: 0 7%;
+    }
+}
+@media screen and (max-width: 1199px) {
+    /* Styles */
+    .iphone-frame img {
+        width: 53%;
+    }
+    .contact-one .main-hd {
+        padding-right: 30px;
+    }
+    .main-hd h4 {
+        font-size: 24px;
+    }
+    .main-hd h2,.section-title {
+        font-size: 32px !important;!i;!;
+    }
+    .footer-section .middle-portion .first-column p {
+        font-size: 16px;
+        width: 100%;
+    }
+    
+    .footer-section .middle-portion .icons h4, .footer-section .middle-portion .links h4 {
+        font-size: 22px;
+    }
+    
+    .footer-section .middle-portion .links li a {
+        font-size: 16px;
+    }
+    
+    .footer-section .middle-portion .lower .content {
+        padding: 0;
+    }
+    .whyTabs .nav-tabs .nav-link {
+        padding: 0;
+    }
+    
+    .whyTabs ul {
+    border: none;
+    padding-top: 30px;
+}
+
+h5.tabHead {
+    font-size: 20px;
+}
+    .whyTabs .nav-tabs .nav-link img {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 1024px) {
+    /* Styles */
+    .iphone-frame img {
+        width: 73%;
+    }
+    .footer-section .middle-portion .list-pd {
+        padding: 0;
+    }
+    .iphone-frame {
+        left: 25%;
+    }
+}
+@media screen and (max-width: 1000px) {  
+    
+    .banner-a {
+        height: auto;
+        padding: 10rem 0 14rem;
+    }
+    
+    .main-hd h2 {
+        font-size: 34px;
+    }
+    
+    .main-hd h4 {
+        font-size: 22px;
+    }
+    
+    .iphone-frame {
+        left: 24%;
+    }
+    
+    .iphone-frame img {
+        width: 71%;
+    }
+    
+}
+/* Small screens */
+@media screen and (max-width: 991px) {
+    .portfolio-slide {
+        padding: 0 20px;
+    }
+    .testi-Slider.testiNew2 .slick-list.draggable {
+        margin: 0;
+    }
+    .portfolio-tab ul li.nav-item button {
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+h5.tabHead {
+    font-size: 18px;
+    line-height: 28px;
+}
+.techArea .techBox{
+    flex:0 0 33.33%;
+    justify-content: center;
+}
+}
+@media screen and (max-width: 800px) {
+    .iphone-frame img {
+        /* width: 77%; */
+    }
+    
+    .iphone-frame {
+        left: 22.2%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    /* Styles */
+    .fade-right-a, .fade-left-a, .fade-in-a, .fade-up-a, .fade-down-a {
+        transform: none;
+        opacity: 1;
+    }
+    .counter-two__single {border: none;}
+    .iphone-frame {
+        left: 17%;
+    }
+
+    .portfolio-slide img {
+        margin: 0 auto;
+    }
+    .portfolio-slide img {
+        width: 40%;
+        margin: auto;
+        max-width: 100%;
+    }
+    .testimonial-hd {
+        padding: 0 20px;
+    }
+    .portfolio-tab ul#myTab {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .portfolio-tab ul#myTab li {
+        margin-bottom: 20px;
+    }
+    
+    .portfolio-content {
+        text-align: center;
+    }
+    .main-hd h2 {
+        font-size: 30px;
+    }
+    .features .feature {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    
+    .features .feature img {
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+    section.welcome {
+        padding: 4rem  0 0rem;
+    }
+    
+    .main-hd p.p {
+        font-size: 14px;
+    }
+    
+    section.welcome .innerwelcome .main-hd {
+        padding: 0 20px;
+    }
+    .features {
+        flex-direction: column;
+        padding: 0 40px;
+    }
+    .main-hd h4 {
+        font-size: 19px;
+    }
+    .subscribe-section .subscribe-right-wrapper .subscribe-form {
+    flex-direction: column;
+}
+
+.subscribe-section .subscribe-right-wrapper .subscribe-form input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+section#hero {
+    background-image: none;
+    background: #170a28;
+}
+.iphone-frame {
+    display: none;
+}
+.hero-content {
+    width: 100%;
+}
+.subscribe-section .subscribe-right-wrapper .subscribe-form button {
+    width: 100% !important;
+}
+}
+@media screen and (max-width: 600px) {
+    /* Styles */
+    .techArea .techBox{
+        flex:0 0 50%;
+    }
+}
+@media screen and (max-width: 575px) {
+    .iphone-frame {
+        left: 12%;
+    }
+        .iphone-frame img {
+        width: 54%;
+    }
+}
+
+/* Extra small screens */
+@media screen and (max-width: 414px) {
+    .iphone-frame img {
+        width: 46%;
+    }
+    .iphone-frame {
+        left: 10%;
+    }
+}
+@media screen and (max-width: 320px) {
+    /* Styles */
+}
